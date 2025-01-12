@@ -1,0 +1,171 @@
+body {
+    background-image: url('https://wallpaperaccess.com/full/193864.jpg');
+}
+
+h1 {
+    color: rgb(161, 68, 68);
+}
+
+/* <embed type="text/html" src="index.html"  width="500" height="200"> */
+
+.card-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .card-base {
+    width: 350px;
+    height: 500px;
+    margin: 50px;
+    border-radius: 40px;
+    box-shadow: 2px 2px 22px black;
+  }
+  
+  .img-one {
+    background: url('https://r2.fivemanage.com/m3EC5WPaxzhqXcX7rv3yo/images/Screenshot2025-01-11225209.png') no-repeat;
+    width: 350px;
+    height: 300px;
+    border-radius: 40px;
+    background-size: 100%;
+  }
+
+
+  .card-one {
+    background-color: #1f1744;
+  }
+  .card-two {
+    background-color: #1f1744;
+  }
+  .card-three {
+    background-color: #1f1744;
+  }
+  
+
+.zentech-bold-one{
+    color: black;
+}
+
+.zentech-content-one {
+    color: rgb(0, 0, 0);
+}
+
+.ZenTech-class-one {
+    color: rgb(255, 255, 255);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 30px;
+}
+
+.zentech-content-obx{
+    color: rgb(255, 255, 255);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 25px;
+    width: 345px;
+    height: 20px;
+}
+
+.Table-content {
+    color: rgb(255, 0, 119);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+.img-x {
+    background: url('https://r2.fivemanage.com/m3EC5WPaxzhqXcX7rv3yo/images/Screenshot2025-01-11225209.png') no-repeat;
+    width: 350px;
+    height: 300px;
+    border-radius: 40px;
+    background-size: 100%;
+  }
+
+
+.zentech-content-xx {
+    color: rgb(0, 0, 0);
+}
+
+.ZenTech-class-xxx {
+    color: rgb(255, 255, 255);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 30px;
+}
+
+.zentech-content-xxxx {
+    color: rgb(255, 255, 255);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 25px;
+    width: 345px;
+    height: 20px;
+}
+
+.Table-content-xxxxx {
+    color: rgb(255, 0, 119);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 20px;
+    text-align: center;
+}
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
